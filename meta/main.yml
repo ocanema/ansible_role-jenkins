@@ -1,0 +1,16 @@
+---
+dependencies:
+  - { role: geerlingguy.java }
+
+galaxy_info:
+  author: ocanema
+  description: Jenkins CI
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.4
+  platforms:
+    - name: EL
+      versions:
+        - 7
+  categories:
+    - development
+    - packaging
